@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princejain-2004" alt="princejain-2004" /></a> </p>
 
-- 🔭 I’m currently working on **HPE CPP PROJECT**
+- 🔭 I’m currently working on **HPE CPP3 PROJECT**
 
 - 🌱 I’m currently learning **DevOps, Docker, Kubernetes & AWS**
 
